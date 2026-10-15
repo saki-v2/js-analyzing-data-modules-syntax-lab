@@ -34,3 +34,5 @@ const siteC = ['user5'];
 
 const mergedData = combineUsers(siteA, siteB, siteC);
 console.log(mergedData);
+
+// end
